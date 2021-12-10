@@ -1,1 +1,1 @@
-<img src="www.instagram.com/bilal_muhammed_mkm/" alt="My Profile">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
