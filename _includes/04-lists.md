@@ -1,7 +1,7 @@
 ⌚... Time Will Never Wait For You ...⌚
-* Learning new things 💻
-* Finding new paths 🔍
-* Living inside a world of fantacy 🌏
+- Learning new things 💻
+- Finding new paths 🔍
+- Living inside a world of fantacy 🌏
 
 
 * MOOD - MIND
@@ -14,4 +14,4 @@
   * Android Studio
   * WEB-dev
   
-* MANNERS MAKETH MAN
+- MANNERS MAKETH MAN
