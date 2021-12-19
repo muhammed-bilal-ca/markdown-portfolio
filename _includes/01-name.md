@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h2> Muhammed Bilal C A </h2>
+    <h2> A Journey To Kerala IOT Challenge </h2>
   </body>
 </html>
 
